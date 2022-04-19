@@ -1,0 +1,6 @@
+C:\Users\Juanpa\Desktop\med_ASSIST\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Juanpa\Desktop\med_ASSIST\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Juanpa\Desktop\med_ASSIST\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Juanpa\Desktop\med_ASSIST\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Juanpa\Desktop\med_ASSIST\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Juanpa\Desktop\med_ASSIST\CapaEntidades\obj\Debug\CapaEntidades.pdb
